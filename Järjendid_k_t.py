@@ -1,3 +1,15 @@
+#30/02/23 вечер
+
+vowels = ['p','r','o','g','r','a','m','m','e','r','i','m','i','n','e']
+print()
+ssw = vowels.index('a')
+print('a:', ssw)
+print()
+ssw = vowels.index('m')
+print('m:', ssw)
+
+
+
 #30/02/23
 slovo_list="Kvinka sloumo, v ananas idite"
 
